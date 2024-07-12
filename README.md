@@ -1,7 +1,5 @@
 # <h2> Estudante de Programação </h2>
 
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
